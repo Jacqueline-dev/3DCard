@@ -8,7 +8,7 @@ Card para praticar minhas habilidades de animações em CSS.
  * CSS
  
 ## Conheça o projeto: 
-![3D Hero](https://user-images.githubusercontent.com/64090350/222507583-fb543d50-71e5-4db4-9292-2f818968e5da.png)
+![CPT2303021447-796x416](https://user-images.githubusercontent.com/64090350/222508447-88b898bd-ec76-48fa-bcf4-dd6a2fe354ab.gif)
 
 ### Autor
 ---
